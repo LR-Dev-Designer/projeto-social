@@ -43,19 +43,16 @@ iframe#tela{
 	
 }
 
-main #redes-sociais ul li{
-	list-style-type: none;
+section#redes-sociais{
 	text-align: end;
-	padding-top: 10px;
-	padding-right: 20px;
-	padding-bottom: 10px;
 	
 }
 
-main #redes-sociais img{
+section#redes-sociais img{
+	margin: 10px;
 	max-height: 3.5vmax;
 	border-radius: 50%;
-	box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 8px;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 
